@@ -2,6 +2,7 @@ import os
 import time
 import sys
 os.system('clear')
+os.system('xdg-open https://www.facebook.com/ISSAM.RAHMOUNI.999')
 
 
 ## COLORS ###############
